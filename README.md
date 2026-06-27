@@ -1,8 +1,8 @@
 # Hi, I'm Deepak Kurma 👋
 
-### Frontend & Full-Stack Developer
+### Full-Stack Developer specializing in React & Next.js
 
-I'm passionate about building modern, scalable web applications with a strong focus on clean UI, performance, and user experience.
+I build modern, scalable web applications using React, Next.js, TypeScript, and Node.js, with a focus on clean architecture, performance, and user experience.
 
 Currently looking for **Frontend Developer** and **Full-Stack Developer** opportunities.
 
@@ -10,7 +10,7 @@ Currently looking for **Frontend Developer** and **Full-Stack Developer** opport
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer specializing in React & Next.js
+- 💻 Full-Stack Developer with expertise in React, Next.js, and Node.js
 - ⚡ Building production-ready web applications
 - 🌱 Continuously improving my backend and frontend skills
 - 📍 Hyderabad, India
@@ -25,6 +25,7 @@ Currently looking for **Frontend Developer** and **Full-Stack Developer** opport
 - TypeScript
 - JavaScript
 - Tailwind CSS
+- Shadcn/ui
 - HTML5
 - CSS3
 
